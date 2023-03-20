@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to create a repository of recipes that are viewable as web pages. This will demonstrate what I have learned through the Recipes lesson of the Odin Project foundations course.
